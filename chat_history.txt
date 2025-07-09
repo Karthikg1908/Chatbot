@@ -1,0 +1,58 @@
+[2025-06-11 10:11:09] You: hi
+[2025-06-11 10:11:09] Bot: Hello! How can I help you?
+
+[2025-06-11 10:11:19] You: capital of india?
+[2025-06-11 10:11:19] Bot: The capital of India is New Delhi.
+
+[2025-06-11 10:11:28] You: how r u?
+[2025-06-11 10:11:28] Bot: I'm fine, thanks!
+
+[2025-06-11 10:11:36] You: bye
+[2025-06-11 10:12:45] You: how ru 
+[2025-06-11 10:12:45] Bot: I'm fine, thanks!
+
+[2025-06-11 10:13:16] You: how many states are there in india
+[2025-06-11 10:13:16] Bot: India has 28 states and 8 Union territories.
+
+[2025-06-11 10:13:21] You: bye
+[2025-06-11 10:13:21] Bot: Goodbye! 👋
+
+[2025-06-16 20:41:38] You: hi
+[2025-06-16 20:41:38] Bot: Hello! How can I help you?
+
+[2025-06-16 20:41:42] You: how r u
+[2025-06-16 20:41:42] Bot: I'm fine, thanks!
+
+[2025-06-16 20:41:53] You: who is the prime minister of india
+[2025-06-16 20:41:53] Bot: As of 2024, the Prime Minister of India is Narendra Modi.
+
+[2025-06-16 20:42:08] You: natial bird of india?
+[2025-06-16 20:42:08] Bot: The national bird of India is the Indian Peacock.
+
+[2025-06-16 20:44:46] You: exit
+[2025-06-16 20:44:46] Bot: Goodbye! 👋
+
+[2025-06-16 20:46:06] You: prime minister of india?
+[2025-06-16 20:46:06] Bot: The Prime Minister of India is Narendra Modi.
+
+[2025-06-20 15:08:49] You: hi
+[2025-06-20 15:08:49] Bot: Hello! How can I help you?
+
+[2025-06-20 15:08:58] You: who is the prime minister of india
+[2025-06-20 15:08:58] Bot: The Prime Minister of India is Narendra Modi.
+
+[2025-06-20 15:09:55] You: wq
+[2025-06-20 15:09:55] Bot: Sorry, I don't understand. 🤔
+
+[2025-06-20 15:11:27] You: ai interview
+[2025-06-20 15:11:27] Bot: Sorry, I don't understand. 🤔
+
+[2025-06-20 15:11:38] You: bye
+[2025-06-20 15:11:38] Bot: Goodbye! 👋
+
+[2025-06-20 15:12:18] You: ai interview
+[2025-06-20 15:12:18] Bot: today from 3 to 3:30
+
+[2025-06-20 15:13:29] You: bye
+[2025-06-20 15:13:29] Bot: Goodbye! 👋
+
